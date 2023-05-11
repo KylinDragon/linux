@@ -1,0 +1,8 @@
+# Linux kernel installation experiment, just for fun
+
+
+- The steps are captured with jupyter notebook, "*.ipynb"
+- Jupyter notebook configuration: jupyter + bash_kernel
+- Note: 
+-- The jupyter with bash_kernel consumes lots of memory,
+-- so it would be better to perform the steps in the system shell terminal

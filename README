@@ -16,3 +16,14 @@ several of them using the Restructured Text markup notation.
 Please read the Documentation/process/changes.rst file, as it contains the
 requirements for building and running the kernel, and information about
 the problems which may result by upgrading your kernel.
+
+
+Linux kernel installation experiment, just for fun
+====================================================
+- This source was forked from torvalds/linux, just for fun.
+- The steps are captured with jupyter notebook, "experiment/*.ipynb"  
+- Jupyter notebook configuration: jupyter + bash_kernel  
+- Note:   
+-- The jupyter with bash_kernel consumes lots of memory,  
+-- so it would be better to perform the steps in the system shell terminal  
+
